@@ -4,7 +4,7 @@
 ## How to run the script
 You can run the BreastCancer.ipynb using a Jupyter Notebook and BreastCancer.py using python IDE(integrated development environment) like spyder. To install Jupyter Notebook and spyder on your system, you will need to download the Anaconda installer. This script is written in Python 3, so you will need the Python 3.x version of the installer. After downloading and installing Anaconda, you will find the Jupyter Notebook and spyder by opening Anaconda Navigator.
 
-## Dataset
+## About Dataset
 Dataset is taken from ( https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic) ) 
 It contains 32 Attributes and 569 Instances
 
